@@ -1,0 +1,11 @@
+#ifndef GAME}_H
+#define GAME}_H
+
+class Game} {
+public:
+	Game}();
+private:
+};
+
+#endif
+
